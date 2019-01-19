@@ -1,5 +1,5 @@
 # MovieFinder
 
-Application Folder contains the runable jar file with all needed dependencies
+'Application' folder contains the runable jar file with all needed dependencies
 
-Code folder contains source code exported from eclipse project
+'Code folder' contains source code exported from eclipse project
